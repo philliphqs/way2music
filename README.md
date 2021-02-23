@@ -1,5 +1,5 @@
-# way2more
-> A free social media messaging app for e.g. Discord, WhatsApp and more
+# way2music
+> A free music app for e.g. Spotify, Apple Music and more
 
 ![GitHub issues](https://img.shields.io/github/issues/philliphqs/way2music?style=for-the-badge)
 ![GitHub](https://img.shields.io/github/license/philliphqs/way2music?style=for-the-badge)
